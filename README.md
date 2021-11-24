@@ -1,5 +1,5 @@
 # PI-Calculator
-Calculating PI with the help of probability.
+Calculating PI with the help of probability and multiprocessing.
 
 NOTICE: This program only works on linux.
 After compiling the main.c file, to run main, in the first argument pass the number of processes which are going to help to calculate the PI number and in the second argument pass the number of dots we are going to try.
